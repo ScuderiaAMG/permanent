@@ -704,11 +704,11 @@ def main():
     
     # 要爬取的网站列表
     websites = [
-        "https://cn.pornhub.com/",
-        "https://www.xvideos.com/",
-        "https://www.redtube.com/",
-        "https://www.youporn.com/",
-        "https://www.spankbang.com/",
+        #"https://cn.pornhub.com/",
+        #"https://www.xvideos.com/",
+        #"https://www.redtube.com/",
+        #"https://www.youporn.com/",
+        #"https://www.spankbang.com/",
         "https://2b82e435.com/category/64",
         # 添加更多视频网站...
     ]
