@@ -371,7 +371,7 @@ def main():
     
     # 要爬取的网站URL列表
     websites = [
-        "https://example.com/videos",
+        "https://cn.pornhub.com/",
         # 添加更多网站URL...
     ]
     
